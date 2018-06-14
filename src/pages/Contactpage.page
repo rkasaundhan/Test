@@ -1,3 +1,0 @@
-<apex:page >
-  <c:showactivities var="Contact" ></c:showactivities>
-</apex:page>

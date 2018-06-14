@@ -1,3 +1,0 @@
-<apex:page >
-  <c:showactivities var="Employee2__c" ></c:showactivities>
-</apex:page>
